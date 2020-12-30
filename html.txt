@@ -1,0 +1,139 @@
+
+<html>
+ <head>
+meta charset="utf-8">
+<link rel="stylesheet"  href="txt.css"/>
+<title>de</title>
+</head>
+<body>
+<div id="header">
+<p id="name">DEEKSHITHA ACHARYA</p>
+<p id="email">deekshithaacharya28@gmail.com </p>
+     </div>
+     <div class="left">
+     </div>
+ 
+     <div class="right">
+       <p class="profile">
+         <img src="dee.png" alt="profile_pic"></p>
+            <h3>CARIER OBJECTIVE:</h3>
+            <p>
+            <ul>To secure a challenging job in your Organization, where I can execute my skills and abilities that offers professional growth while being resourceful innovative and strive for excellence.</ul>
+            </p>
+  <h3>Educational Qualifications:</h3>
+            <table>
+                <tr id="heading">
+                    <td>Exam/Degree</td>
+                    <td>University/Board</td>
+                    <td>Name of the Institute</td>
+                    <td>Year</td>
+                  <td>Marks</td>
+                </tr>
+                <tr>
+                    <td>B.E CSE
+(1-5th sem)
+</td>
+
+                    <td>Visvesvaraya Technology University</td>
+                    <td>Shri Madhwa Vadiraja Institute of Technology & Management, Bantakal</td>
+                  <td>2017-2021</td>
+                  <td>7.03cgpa</td>
+                </tr>
+                <tr>
+                    <td>PUC</td>
+                    <td>         PUC
+Department of Pre-University Education,Karnataka</td>
+                  <td>Mahatma Gandhi Memorial P.U.College
+                    Kunjibettu,Udupi</td>
+                  <td>2017</td>
+                  <td>74.66%</td>
+                </tr>
+                <tr>
+                    <td>SSLC</td>
+                    <td>Karnataka Secondary Education Examination Board, Karnataka</td>
+                    <td>St.Cicilys High School,
+Udupi
+</td>
+                    <td>2015</td>
+                  <td>81.44%</td>    
+              </tr>
+            </table>
+            <h3>KNOWLEDGE IN SOFTWARE:</h3>
+  <ul>C, C++, Java, Netbeans, python, Code Blocks, Dev C++ and Mysql.</ul>
+  <h3>CAPABILITIES AND PERSONAL ATTRIBUTES:</h3>
+  <ul><li>Team working skills</li>
+    <li>Willingness to learn, recognize and respect different perspectives</li>
+    <li>Adaptive to changing situations and environments</li></ul>
+  <h3>INTERNSHIP:</h3>
+  <ul><li>Internship on Datascience in Tech Fortune Technolgies Bangalore></li></ul>
+  <h3>EXTRA/CO-CURRICULAR ACTIVITIES:</h3>
+  <ul><li>Attended industrial training program on “Python with Machine Learning” conducted by AVM LABS from 1st July 2020 to 31st July 2020 in association with Takeiteasy_engineers</li>
+    <li>Participated in “Online International Webinar on Dis-Aggregation of SW and HW in NetworkingTrends” by Ms. Sushma Srikanth, Senior Director of Engineering CISCO, US held on 6th July,2020</li>
+    <li>Volunteered during Fest and Annual day celebration</li></ul>
+  <h3>PROJECT WORK:</h3>
+  <ul><li>Mini Project on <strong>TIMETABLE MANAGEMENT SYSTEM.</strong></li>
+    <ul><li>Time duration: 6 months</li>
+      <li>Team members:2 </li>
+      <li>To manage the details of timetable, faculty, subject, student, course. The project is totally built at administrative end and thus only the administrator is guaranteed the access</li></ul>
+    <li>Mini Project on <strong>VISUALISATION OF HUMAN ANATOMY.</strong>
+      <ul><li>Time duration: 6 months</li>
+        <li>Team members:2</li>
+        <li>Visualization of human anatomy project is designed and implemented using OpenGL interactive application that basically deals with providing the graphical interfaces between user and system</li></ul>
+  </ul>
+  <p><h3>PERSONAL DETAILS:</h3>
+     <ul>
+       <table>
+         <tr >
+           <td>Date:</td>
+           <td>28/03/1999</td>
+         </tr>
+         <tr>
+           <td>Father Name:</td>
+           <td>Harish Acharya</td>
+         </tr>
+         <tr>
+           <td>Marital Status:</td>
+           <td>Single</td>
+         </tr>
+         <tr>
+           <td>Religion:                    </td>
+           <td>Hindu</td>
+         </tr>
+         <tr>
+           <td>Languages Known:</td>
+           <td>English, Kannada, and Tulu</td>
+         </tr>
+         <tr>
+           <td>Blood Group:</td>
+           <td>B+</td>
+         </tr>
+         <tr>
+           <td>Permanent Address:</td>
+           <td>Sanvi Residency, Flat No:205,
+                                        Gundi Baile, Udupi-576101
+</td>
+         </tr>
+       </table>
+     </ul>
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+            <ul>
+                <li>
+                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+                <li>
+                <span id="course-name">Languages Known:</span>English, Hindi, Gujarati and Sindhi</li>
+                <li>
+                <span id="course-name">Hobbies:</span>I love reading Finance and IT related books / magazines, playing Chess, swimming, listening music, surfing Internet, self-learning through e-courses.</li> </ul>
+            </p>
+            <h3>Declaration</h3>
+            <p>
+            I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
+  <p><strong>Place: Udupi</strong></p>
+  <p><strong>Date: 7/10/2020</strong>
+  <p align=right><strong>Deekshitha Acharya</strong></p>
+  </p>
+  </div>
+     <div id="footer"></div>
+    </body>
+</html>
